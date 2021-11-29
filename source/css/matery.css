@@ -1318,7 +1318,7 @@ thead {
 
 .chip-container .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, rgba(207, 154, 231, 0.3),rgb(100, 46, 187)) !important;
+    background: linear-gradient(to right, rgba(13, 179, 137, 0.3),rgb(7, 201, 7)) !important;
 }
 
 .chip .tag-length {

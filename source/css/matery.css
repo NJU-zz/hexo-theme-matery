@@ -258,7 +258,7 @@ mark {
     position: fixed;
     bottom: 0;
     z-index: 300;
-    background: linear-gradient(to right, rgba(207, 154, 231, 0.3),rgb(100, 46, 187));
+    background: linear-gradient(to right, rgba(5, 245, 165, 0.3),rgb(38, 206, 4));
     opacity: 0.8;
 }
 
@@ -1318,7 +1318,7 @@ thead {
 
 .chip-container .chip:hover {
     color: #fff;
-    background: linear-gradient(to right, rgba(13, 179, 137, 0.3),rgb(7, 201, 7)) !important;
+    background: linear-gradient(to right, rgba(5, 230, 54, 0.3),rgb(7, 201, 7)) !important;
 }
 
 .chip .tag-length {
